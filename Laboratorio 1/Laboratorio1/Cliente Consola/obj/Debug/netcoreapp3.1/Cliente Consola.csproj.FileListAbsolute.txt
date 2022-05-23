@@ -1,0 +1,17 @@
+C:\Users\fifu1\OneDrive\Escritorio\INFORMATICA\Tercero\HADS\Laboratorio 1\Laboratorio1\Cliente Consola\bin\Debug\netcoreapp3.1\Cliente Consola.exe
+C:\Users\fifu1\OneDrive\Escritorio\INFORMATICA\Tercero\HADS\Laboratorio 1\Laboratorio1\Cliente Consola\bin\Debug\netcoreapp3.1\Cliente Consola.deps.json
+C:\Users\fifu1\OneDrive\Escritorio\INFORMATICA\Tercero\HADS\Laboratorio 1\Laboratorio1\Cliente Consola\bin\Debug\netcoreapp3.1\Cliente Consola.runtimeconfig.json
+C:\Users\fifu1\OneDrive\Escritorio\INFORMATICA\Tercero\HADS\Laboratorio 1\Laboratorio1\Cliente Consola\bin\Debug\netcoreapp3.1\Cliente Consola.runtimeconfig.dev.json
+C:\Users\fifu1\OneDrive\Escritorio\INFORMATICA\Tercero\HADS\Laboratorio 1\Laboratorio1\Cliente Consola\bin\Debug\netcoreapp3.1\Cliente Consola.dll
+C:\Users\fifu1\OneDrive\Escritorio\INFORMATICA\Tercero\HADS\Laboratorio 1\Laboratorio1\Cliente Consola\bin\Debug\netcoreapp3.1\Cliente Consola.pdb
+C:\Users\fifu1\OneDrive\Escritorio\INFORMATICA\Tercero\HADS\Laboratorio 1\Laboratorio1\Cliente Consola\bin\Debug\netcoreapp3.1\ClacularCuota.dll
+C:\Users\fifu1\OneDrive\Escritorio\INFORMATICA\Tercero\HADS\Laboratorio 1\Laboratorio1\Cliente Consola\bin\Debug\netcoreapp3.1\ClacularCuota.pdb
+C:\Users\fifu1\OneDrive\Escritorio\INFORMATICA\Tercero\HADS\Laboratorio 1\Laboratorio1\Cliente Consola\obj\Debug\netcoreapp3.1\Cliente Consola.csproj.AssemblyReference.cache
+C:\Users\fifu1\OneDrive\Escritorio\INFORMATICA\Tercero\HADS\Laboratorio 1\Laboratorio1\Cliente Consola\obj\Debug\netcoreapp3.1\Cliente Consola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fifu1\OneDrive\Escritorio\INFORMATICA\Tercero\HADS\Laboratorio 1\Laboratorio1\Cliente Consola\obj\Debug\netcoreapp3.1\Cliente Consola.AssemblyInfoInputs.cache
+C:\Users\fifu1\OneDrive\Escritorio\INFORMATICA\Tercero\HADS\Laboratorio 1\Laboratorio1\Cliente Consola\obj\Debug\netcoreapp3.1\Cliente Consola.AssemblyInfo.cs
+C:\Users\fifu1\OneDrive\Escritorio\INFORMATICA\Tercero\HADS\Laboratorio 1\Laboratorio1\Cliente Consola\obj\Debug\netcoreapp3.1\Cliente Consola.csproj.CoreCompileInputs.cache
+C:\Users\fifu1\OneDrive\Escritorio\INFORMATICA\Tercero\HADS\Laboratorio 1\Laboratorio1\Cliente Consola\obj\Debug\netcoreapp3.1\Cliente Consola.csproj.CopyComplete
+C:\Users\fifu1\OneDrive\Escritorio\INFORMATICA\Tercero\HADS\Laboratorio 1\Laboratorio1\Cliente Consola\obj\Debug\netcoreapp3.1\Cliente Consola.dll
+C:\Users\fifu1\OneDrive\Escritorio\INFORMATICA\Tercero\HADS\Laboratorio 1\Laboratorio1\Cliente Consola\obj\Debug\netcoreapp3.1\Cliente Consola.pdb
+C:\Users\fifu1\OneDrive\Escritorio\INFORMATICA\Tercero\HADS\Laboratorio 1\Laboratorio1\Cliente Consola\obj\Debug\netcoreapp3.1\Cliente Consola.genruntimeconfig.cache

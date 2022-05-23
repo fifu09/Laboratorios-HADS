@@ -1,0 +1,6 @@
+C:\Users\fifu1\OneDrive\Escritorio\INFORMATICA\Tercero\HADS\Laboratorio 1\Laboratorio1\ClacularCuota\bin\Debug\ClacularCuota.dll
+C:\Users\fifu1\OneDrive\Escritorio\INFORMATICA\Tercero\HADS\Laboratorio 1\Laboratorio1\ClacularCuota\bin\Debug\ClacularCuota.pdb
+C:\Users\fifu1\OneDrive\Escritorio\INFORMATICA\Tercero\HADS\Laboratorio 1\Laboratorio1\ClacularCuota\obj\Debug\ClacularCuota.csproj.AssemblyReference.cache
+C:\Users\fifu1\OneDrive\Escritorio\INFORMATICA\Tercero\HADS\Laboratorio 1\Laboratorio1\ClacularCuota\obj\Debug\ClacularCuota.csproj.CoreCompileInputs.cache
+C:\Users\fifu1\OneDrive\Escritorio\INFORMATICA\Tercero\HADS\Laboratorio 1\Laboratorio1\ClacularCuota\obj\Debug\ClacularCuota.dll
+C:\Users\fifu1\OneDrive\Escritorio\INFORMATICA\Tercero\HADS\Laboratorio 1\Laboratorio1\ClacularCuota\obj\Debug\ClacularCuota.pdb

@@ -1,0 +1,6 @@
+C:\Users\fifu1\OneDrive\Escritorio\INFORMATICA\Tercero\HADS\Laboratorio 1\Biblioteca de clases\Biblioteca de clases\bin\Debug\Biblioteca de clases.dll
+C:\Users\fifu1\OneDrive\Escritorio\INFORMATICA\Tercero\HADS\Laboratorio 1\Biblioteca de clases\Biblioteca de clases\bin\Debug\Biblioteca de clases.pdb
+C:\Users\fifu1\OneDrive\Escritorio\INFORMATICA\Tercero\HADS\Laboratorio 1\Biblioteca de clases\Biblioteca de clases\obj\Debug\Biblioteca de clases.csproj.AssemblyReference.cache
+C:\Users\fifu1\OneDrive\Escritorio\INFORMATICA\Tercero\HADS\Laboratorio 1\Biblioteca de clases\Biblioteca de clases\obj\Debug\Biblioteca de clases.csproj.CoreCompileInputs.cache
+C:\Users\fifu1\OneDrive\Escritorio\INFORMATICA\Tercero\HADS\Laboratorio 1\Biblioteca de clases\Biblioteca de clases\obj\Debug\Biblioteca de clases.dll
+C:\Users\fifu1\OneDrive\Escritorio\INFORMATICA\Tercero\HADS\Laboratorio 1\Biblioteca de clases\Biblioteca de clases\obj\Debug\Biblioteca de clases.pdb

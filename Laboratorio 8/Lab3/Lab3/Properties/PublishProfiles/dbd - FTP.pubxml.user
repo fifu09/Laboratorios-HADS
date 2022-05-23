@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Este archivo se usa en el proceso de publicación y empaquetado del proyecto web. Para personalizar el comportamiento de este proceso,
+edite el archivo MSBuild. Visite https://go.microsoft.com/fwlink/?LinkID=208121 para obtener más información. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAdLAO0EUJGEyiXVh/coUXIAAAAAACAAAAAAAQZgAAAAEAACAAAAAk/zb783qpHKlpna+MXdWEdwkS/xs2pZVgXlw9sHgUHQAAAAAOgAAAAAIAACAAAAAxeDMoxjOomltYG3IEi/oVsC9WqvJ0DgJQUsT32nTj+oAAAAClt696fCGiQA1FfQjrVniSKsPNJAAwoinJKX/H0YeJFSRiaF9Qr9xX3A04X422K92zG4ttcoEB9F22Bajdvymvd7zn98I8BBBCejOblg6+d+2YpP8jk7qWdiaoR9baDGvGqqAy5j/gqG7MrGIJqpnA/dmsKJqE+D+wTdESG5Id4kAAAAD+QN0RtPq0Y695hMgmHBZG8eyTmck3+da0RZJbPOV7Z4iK4Of/OgP5aYvfo66N0hcdj/uQboAfLzC7qTJpGOPL</EncryptedPassword>
+    <_PublishTargetUrl>ftp://waws-prod-blu-301.ftp.azurewebsites.windows.net/site/wwwroot</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="mediaDeHoras.asmx">
+      <publishTime>05/15/2022 16:40:11</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,13 @@
+C:\Users\fifu1\OneDrive\Escritorio\INFORMATICA\Tercero\HADS\Laboratorio 1\Tutorial de .NET\Ventana Comision\obj\Debug\Ventana Comision.csproj.AssemblyReference.cache
+C:\Users\fifu1\OneDrive\Escritorio\INFORMATICA\Tercero\HADS\Laboratorio 1\Tutorial de .NET\Ventana Comision\obj\Debug\Ventana_Comision.Form1.resources
+C:\Users\fifu1\OneDrive\Escritorio\INFORMATICA\Tercero\HADS\Laboratorio 1\Tutorial de .NET\Ventana Comision\obj\Debug\Ventana_Comision.Properties.Resources.resources
+C:\Users\fifu1\OneDrive\Escritorio\INFORMATICA\Tercero\HADS\Laboratorio 1\Tutorial de .NET\Ventana Comision\obj\Debug\Ventana Comision.csproj.GenerateResource.cache
+C:\Users\fifu1\OneDrive\Escritorio\INFORMATICA\Tercero\HADS\Laboratorio 1\Tutorial de .NET\Ventana Comision\obj\Debug\Ventana Comision.csproj.CoreCompileInputs.cache
+C:\Users\fifu1\OneDrive\Escritorio\INFORMATICA\Tercero\HADS\Laboratorio 1\Tutorial de .NET\Ventana Comision\bin\Debug\Ventana Comision.exe.config
+C:\Users\fifu1\OneDrive\Escritorio\INFORMATICA\Tercero\HADS\Laboratorio 1\Tutorial de .NET\Ventana Comision\bin\Debug\Ventana Comision.exe
+C:\Users\fifu1\OneDrive\Escritorio\INFORMATICA\Tercero\HADS\Laboratorio 1\Tutorial de .NET\Ventana Comision\bin\Debug\Ventana Comision.pdb
+C:\Users\fifu1\OneDrive\Escritorio\INFORMATICA\Tercero\HADS\Laboratorio 1\Tutorial de .NET\Ventana Comision\bin\Debug\Biblioteca de clases.dll
+C:\Users\fifu1\OneDrive\Escritorio\INFORMATICA\Tercero\HADS\Laboratorio 1\Tutorial de .NET\Ventana Comision\bin\Debug\Biblioteca de clases.pdb
+C:\Users\fifu1\OneDrive\Escritorio\INFORMATICA\Tercero\HADS\Laboratorio 1\Tutorial de .NET\Ventana Comision\obj\Debug\Ventana Comision.csproj.CopyComplete
+C:\Users\fifu1\OneDrive\Escritorio\INFORMATICA\Tercero\HADS\Laboratorio 1\Tutorial de .NET\Ventana Comision\obj\Debug\Ventana Comision.exe
+C:\Users\fifu1\OneDrive\Escritorio\INFORMATICA\Tercero\HADS\Laboratorio 1\Tutorial de .NET\Ventana Comision\obj\Debug\Ventana Comision.pdb

@@ -1,0 +1,13 @@
+C:\Users\fifu1\OneDrive\Escritorio\INFORMATICA\Tercero\HADS\Laboratorio 1\Laboratorio1\Cliente Aplicacion\bin\Debug\Cliente Aplicacion.exe.config
+C:\Users\fifu1\OneDrive\Escritorio\INFORMATICA\Tercero\HADS\Laboratorio 1\Laboratorio1\Cliente Aplicacion\bin\Debug\Cliente Aplicacion.exe
+C:\Users\fifu1\OneDrive\Escritorio\INFORMATICA\Tercero\HADS\Laboratorio 1\Laboratorio1\Cliente Aplicacion\bin\Debug\Cliente Aplicacion.pdb
+C:\Users\fifu1\OneDrive\Escritorio\INFORMATICA\Tercero\HADS\Laboratorio 1\Laboratorio1\Cliente Aplicacion\bin\Debug\ClacularCuota.dll
+C:\Users\fifu1\OneDrive\Escritorio\INFORMATICA\Tercero\HADS\Laboratorio 1\Laboratorio1\Cliente Aplicacion\bin\Debug\ClacularCuota.pdb
+C:\Users\fifu1\OneDrive\Escritorio\INFORMATICA\Tercero\HADS\Laboratorio 1\Laboratorio1\Cliente Aplicacion\obj\Debug\Cliente Aplicacion.csproj.AssemblyReference.cache
+C:\Users\fifu1\OneDrive\Escritorio\INFORMATICA\Tercero\HADS\Laboratorio 1\Laboratorio1\Cliente Aplicacion\obj\Debug\Cliente_Aplicacion.Form1.resources
+C:\Users\fifu1\OneDrive\Escritorio\INFORMATICA\Tercero\HADS\Laboratorio 1\Laboratorio1\Cliente Aplicacion\obj\Debug\Cliente_Aplicacion.Properties.Resources.resources
+C:\Users\fifu1\OneDrive\Escritorio\INFORMATICA\Tercero\HADS\Laboratorio 1\Laboratorio1\Cliente Aplicacion\obj\Debug\Cliente Aplicacion.csproj.GenerateResource.cache
+C:\Users\fifu1\OneDrive\Escritorio\INFORMATICA\Tercero\HADS\Laboratorio 1\Laboratorio1\Cliente Aplicacion\obj\Debug\Cliente Aplicacion.csproj.CoreCompileInputs.cache
+C:\Users\fifu1\OneDrive\Escritorio\INFORMATICA\Tercero\HADS\Laboratorio 1\Laboratorio1\Cliente Aplicacion\obj\Debug\Cliente Aplicacion.csproj.CopyComplete
+C:\Users\fifu1\OneDrive\Escritorio\INFORMATICA\Tercero\HADS\Laboratorio 1\Laboratorio1\Cliente Aplicacion\obj\Debug\Cliente Aplicacion.exe
+C:\Users\fifu1\OneDrive\Escritorio\INFORMATICA\Tercero\HADS\Laboratorio 1\Laboratorio1\Cliente Aplicacion\obj\Debug\Cliente Aplicacion.pdb

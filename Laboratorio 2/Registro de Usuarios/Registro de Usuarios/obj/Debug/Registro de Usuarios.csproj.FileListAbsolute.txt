@@ -1,0 +1,73 @@
+C:\Users\fifu1\OneDrive\Escritorio\INFORMATICA\Tercero\HADS\Laboratorio 2\Registro de Usuarios\Registro de Usuarios\bin\Registro de Usuarios.dll.config
+C:\Users\fifu1\OneDrive\Escritorio\INFORMATICA\Tercero\HADS\Laboratorio 2\Registro de Usuarios\Registro de Usuarios\bin\Registro de Usuarios.dll
+C:\Users\fifu1\OneDrive\Escritorio\INFORMATICA\Tercero\HADS\Laboratorio 2\Registro de Usuarios\Registro de Usuarios\bin\Registro de Usuarios.pdb
+C:\Users\fifu1\OneDrive\Escritorio\INFORMATICA\Tercero\HADS\Laboratorio 2\Registro de Usuarios\Registro de Usuarios\bin\roslyn\csc.exe
+C:\Users\fifu1\OneDrive\Escritorio\INFORMATICA\Tercero\HADS\Laboratorio 2\Registro de Usuarios\Registro de Usuarios\bin\roslyn\csc.exe.config
+C:\Users\fifu1\OneDrive\Escritorio\INFORMATICA\Tercero\HADS\Laboratorio 2\Registro de Usuarios\Registro de Usuarios\bin\roslyn\csc.rsp
+C:\Users\fifu1\OneDrive\Escritorio\INFORMATICA\Tercero\HADS\Laboratorio 2\Registro de Usuarios\Registro de Usuarios\bin\roslyn\csi.exe
+C:\Users\fifu1\OneDrive\Escritorio\INFORMATICA\Tercero\HADS\Laboratorio 2\Registro de Usuarios\Registro de Usuarios\bin\roslyn\csi.exe.config
+C:\Users\fifu1\OneDrive\Escritorio\INFORMATICA\Tercero\HADS\Laboratorio 2\Registro de Usuarios\Registro de Usuarios\bin\roslyn\csi.rsp
+C:\Users\fifu1\OneDrive\Escritorio\INFORMATICA\Tercero\HADS\Laboratorio 2\Registro de Usuarios\Registro de Usuarios\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\fifu1\OneDrive\Escritorio\INFORMATICA\Tercero\HADS\Laboratorio 2\Registro de Usuarios\Registro de Usuarios\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\fifu1\OneDrive\Escritorio\INFORMATICA\Tercero\HADS\Laboratorio 2\Registro de Usuarios\Registro de Usuarios\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\fifu1\OneDrive\Escritorio\INFORMATICA\Tercero\HADS\Laboratorio 2\Registro de Usuarios\Registro de Usuarios\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\fifu1\OneDrive\Escritorio\INFORMATICA\Tercero\HADS\Laboratorio 2\Registro de Usuarios\Registro de Usuarios\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\fifu1\OneDrive\Escritorio\INFORMATICA\Tercero\HADS\Laboratorio 2\Registro de Usuarios\Registro de Usuarios\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\fifu1\OneDrive\Escritorio\INFORMATICA\Tercero\HADS\Laboratorio 2\Registro de Usuarios\Registro de Usuarios\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\fifu1\OneDrive\Escritorio\INFORMATICA\Tercero\HADS\Laboratorio 2\Registro de Usuarios\Registro de Usuarios\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\fifu1\OneDrive\Escritorio\INFORMATICA\Tercero\HADS\Laboratorio 2\Registro de Usuarios\Registro de Usuarios\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\fifu1\OneDrive\Escritorio\INFORMATICA\Tercero\HADS\Laboratorio 2\Registro de Usuarios\Registro de Usuarios\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\fifu1\OneDrive\Escritorio\INFORMATICA\Tercero\HADS\Laboratorio 2\Registro de Usuarios\Registro de Usuarios\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\fifu1\OneDrive\Escritorio\INFORMATICA\Tercero\HADS\Laboratorio 2\Registro de Usuarios\Registro de Usuarios\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\fifu1\OneDrive\Escritorio\INFORMATICA\Tercero\HADS\Laboratorio 2\Registro de Usuarios\Registro de Usuarios\bin\roslyn\System.AppContext.dll
+C:\Users\fifu1\OneDrive\Escritorio\INFORMATICA\Tercero\HADS\Laboratorio 2\Registro de Usuarios\Registro de Usuarios\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\fifu1\OneDrive\Escritorio\INFORMATICA\Tercero\HADS\Laboratorio 2\Registro de Usuarios\Registro de Usuarios\bin\roslyn\System.Console.dll
+C:\Users\fifu1\OneDrive\Escritorio\INFORMATICA\Tercero\HADS\Laboratorio 2\Registro de Usuarios\Registro de Usuarios\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\fifu1\OneDrive\Escritorio\INFORMATICA\Tercero\HADS\Laboratorio 2\Registro de Usuarios\Registro de Usuarios\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\fifu1\OneDrive\Escritorio\INFORMATICA\Tercero\HADS\Laboratorio 2\Registro de Usuarios\Registro de Usuarios\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\fifu1\OneDrive\Escritorio\INFORMATICA\Tercero\HADS\Laboratorio 2\Registro de Usuarios\Registro de Usuarios\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\fifu1\OneDrive\Escritorio\INFORMATICA\Tercero\HADS\Laboratorio 2\Registro de Usuarios\Registro de Usuarios\bin\roslyn\System.IO.Compression.dll
+C:\Users\fifu1\OneDrive\Escritorio\INFORMATICA\Tercero\HADS\Laboratorio 2\Registro de Usuarios\Registro de Usuarios\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\fifu1\OneDrive\Escritorio\INFORMATICA\Tercero\HADS\Laboratorio 2\Registro de Usuarios\Registro de Usuarios\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\fifu1\OneDrive\Escritorio\INFORMATICA\Tercero\HADS\Laboratorio 2\Registro de Usuarios\Registro de Usuarios\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\fifu1\OneDrive\Escritorio\INFORMATICA\Tercero\HADS\Laboratorio 2\Registro de Usuarios\Registro de Usuarios\bin\roslyn\System.Net.Http.dll
+C:\Users\fifu1\OneDrive\Escritorio\INFORMATICA\Tercero\HADS\Laboratorio 2\Registro de Usuarios\Registro de Usuarios\bin\roslyn\System.Net.Sockets.dll
+C:\Users\fifu1\OneDrive\Escritorio\INFORMATICA\Tercero\HADS\Laboratorio 2\Registro de Usuarios\Registro de Usuarios\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\fifu1\OneDrive\Escritorio\INFORMATICA\Tercero\HADS\Laboratorio 2\Registro de Usuarios\Registro de Usuarios\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\fifu1\OneDrive\Escritorio\INFORMATICA\Tercero\HADS\Laboratorio 2\Registro de Usuarios\Registro de Usuarios\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\fifu1\OneDrive\Escritorio\INFORMATICA\Tercero\HADS\Laboratorio 2\Registro de Usuarios\Registro de Usuarios\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\fifu1\OneDrive\Escritorio\INFORMATICA\Tercero\HADS\Laboratorio 2\Registro de Usuarios\Registro de Usuarios\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\fifu1\OneDrive\Escritorio\INFORMATICA\Tercero\HADS\Laboratorio 2\Registro de Usuarios\Registro de Usuarios\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\fifu1\OneDrive\Escritorio\INFORMATICA\Tercero\HADS\Laboratorio 2\Registro de Usuarios\Registro de Usuarios\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\fifu1\OneDrive\Escritorio\INFORMATICA\Tercero\HADS\Laboratorio 2\Registro de Usuarios\Registro de Usuarios\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\fifu1\OneDrive\Escritorio\INFORMATICA\Tercero\HADS\Laboratorio 2\Registro de Usuarios\Registro de Usuarios\bin\roslyn\System.ValueTuple.dll
+C:\Users\fifu1\OneDrive\Escritorio\INFORMATICA\Tercero\HADS\Laboratorio 2\Registro de Usuarios\Registro de Usuarios\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\fifu1\OneDrive\Escritorio\INFORMATICA\Tercero\HADS\Laboratorio 2\Registro de Usuarios\Registro de Usuarios\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\fifu1\OneDrive\Escritorio\INFORMATICA\Tercero\HADS\Laboratorio 2\Registro de Usuarios\Registro de Usuarios\bin\roslyn\System.Xml.XPath.dll
+C:\Users\fifu1\OneDrive\Escritorio\INFORMATICA\Tercero\HADS\Laboratorio 2\Registro de Usuarios\Registro de Usuarios\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\fifu1\OneDrive\Escritorio\INFORMATICA\Tercero\HADS\Laboratorio 2\Registro de Usuarios\Registro de Usuarios\bin\roslyn\vbc.exe
+C:\Users\fifu1\OneDrive\Escritorio\INFORMATICA\Tercero\HADS\Laboratorio 2\Registro de Usuarios\Registro de Usuarios\bin\roslyn\vbc.exe.config
+C:\Users\fifu1\OneDrive\Escritorio\INFORMATICA\Tercero\HADS\Laboratorio 2\Registro de Usuarios\Registro de Usuarios\bin\roslyn\vbc.rsp
+C:\Users\fifu1\OneDrive\Escritorio\INFORMATICA\Tercero\HADS\Laboratorio 2\Registro de Usuarios\Registro de Usuarios\bin\roslyn\VBCSCompiler.exe
+C:\Users\fifu1\OneDrive\Escritorio\INFORMATICA\Tercero\HADS\Laboratorio 2\Registro de Usuarios\Registro de Usuarios\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\fifu1\OneDrive\Escritorio\INFORMATICA\Tercero\HADS\Laboratorio 2\Registro de Usuarios\Registro de Usuarios\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\fifu1\OneDrive\Escritorio\INFORMATICA\Tercero\HADS\Laboratorio 2\Registro de Usuarios\Registro de Usuarios\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\fifu1\OneDrive\Escritorio\INFORMATICA\Tercero\HADS\Laboratorio 2\Registro de Usuarios\Registro de Usuarios\obj\Debug\Registro de Usuarios.csproj.AssemblyReference.cache
+C:\Users\fifu1\OneDrive\Escritorio\INFORMATICA\Tercero\HADS\Laboratorio 2\Registro de Usuarios\Registro de Usuarios\obj\Debug\Registro de Usuarios.csproj.CoreCompileInputs.cache
+C:\Users\fifu1\OneDrive\Escritorio\INFORMATICA\Tercero\HADS\Laboratorio 2\Registro de Usuarios\Registro de Usuarios\obj\Debug\Registro de Usuarios.csproj.CopyComplete
+C:\Users\fifu1\OneDrive\Escritorio\INFORMATICA\Tercero\HADS\Laboratorio 2\Registro de Usuarios\Registro de Usuarios\obj\Debug\Registro de Usuarios.dll
+C:\Users\fifu1\OneDrive\Escritorio\INFORMATICA\Tercero\HADS\Laboratorio 2\Registro de Usuarios\Registro de Usuarios\obj\Debug\Registro de Usuarios.pdb
+C:\Users\fifu1\OneDrive\Escritorio\INFORMATICA\Tercero\HADS\Laboratorio 2\Registro de Usuarios\Registro de Usuarios\bin\Funciones.dll
+C:\Users\fifu1\OneDrive\Escritorio\INFORMATICA\Tercero\HADS\Laboratorio 2\Registro de Usuarios\Registro de Usuarios\bin\Funciones.pdb
+C:\Users\fifu1\OneDrive\Escritorio\INFORMATICA\Tercero\HADS\Laboratorio 2\Registro de Usuarios\Registro de Usuarios\bin\MySql.Data.dll
+C:\Users\fifu1\OneDrive\Escritorio\INFORMATICA\Tercero\HADS\Laboratorio 2\Registro de Usuarios\Registro de Usuarios\bin\Google.Protobuf.dll
+C:\Users\fifu1\OneDrive\Escritorio\INFORMATICA\Tercero\HADS\Laboratorio 2\Registro de Usuarios\Registro de Usuarios\bin\ZstdNet.dll
+C:\Users\fifu1\OneDrive\Escritorio\INFORMATICA\Tercero\HADS\Laboratorio 2\Registro de Usuarios\Registro de Usuarios\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\fifu1\OneDrive\Escritorio\INFORMATICA\Tercero\HADS\Laboratorio 2\Registro de Usuarios\Registro de Usuarios\bin\BouncyCastle.Crypto.dll
+C:\Users\fifu1\OneDrive\Escritorio\INFORMATICA\Tercero\HADS\Laboratorio 2\Registro de Usuarios\Registro de Usuarios\bin\Ubiety.Dns.Core.dll
+C:\Users\fifu1\OneDrive\Escritorio\INFORMATICA\Tercero\HADS\Laboratorio 2\Registro de Usuarios\Registro de Usuarios\bin\System.Memory.dll
+C:\Users\fifu1\OneDrive\Escritorio\INFORMATICA\Tercero\HADS\Laboratorio 2\Registro de Usuarios\Registro de Usuarios\bin\System.Buffers.dll
+C:\Users\fifu1\OneDrive\Escritorio\INFORMATICA\Tercero\HADS\Laboratorio 2\Registro de Usuarios\Registro de Usuarios\bin\K4os.Compression.LZ4.dll
+C:\Users\fifu1\OneDrive\Escritorio\INFORMATICA\Tercero\HADS\Laboratorio 2\Registro de Usuarios\Registro de Usuarios\bin\K4os.Hash.xxHash.dll
+C:\Users\fifu1\OneDrive\Escritorio\INFORMATICA\Tercero\HADS\Laboratorio 2\Registro de Usuarios\Registro de Usuarios\bin\System.Numerics.Vectors.dll
+C:\Users\fifu1\OneDrive\Escritorio\INFORMATICA\Tercero\HADS\Laboratorio 2\Registro de Usuarios\Registro de Usuarios\bin\MySql.Data.xml

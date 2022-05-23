@@ -1,0 +1,2 @@
+C:\Users\fifu1\OneDrive\Escritorio\INFORMATICA\Tercero\HADS\Laboratorio 3\Lab3\Lab3\obj\Release\Lab3.csproj.AssemblyReference.cache
+C:\Users\fifu1\OneDrive\Escritorio\INFORMATICA\Tercero\HADS\Laboratorio 3\Lab3\Lab3\obj\Release\Lab3.csproj.CoreCompileInputs.cache

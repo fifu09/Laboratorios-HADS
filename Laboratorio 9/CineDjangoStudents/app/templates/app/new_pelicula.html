@@ -1,0 +1,44 @@
+﻿{% extends "app/layout.html" %}
+{% block content %}
+
+<h2>{{ title }}</h2>
+<h3>{{ message }}</h3>
+
+<h1>Insertar una pelicula</h1>
+        Formulario para enviar los datos de la pelicula a la vista
+        <form method="post">{% csrf_token %}
+            <table>
+                <tr>
+                    <td>Titulo: </td>
+                    <td>{{ form.titulo }}</td>
+                    <td>{{ form.titulo.errors }}</td>
+                </tr>
+                <tr>
+                    <td>Direccion: </td>
+                    <td>{{ form.direccion }}</td>
+                    <td>{{ form.direccion.errors }}</td>
+                </tr>
+                <tr>
+                    <td>Anio: </td>
+                    <td>{{ form.anio }}</td>
+                    <td>{{ form.anio.errors }}</td>
+                </tr>
+                <tr>
+                    <td>Genero: </td>
+                    <td>{{ form.genero }}</td>
+                    <td>{{ form.genero.errors }}</td>
+                </tr>
+                <tr>
+                    <td>Sinopsis: </td>
+                    <td>{{ form.sinopsis }}</td>
+                    <td>{{ form.sinopsis.errors }}</td>
+                </tr>
+                <tr>
+                    <td>Votos: </td>
+                    <td>{{ form.votos }}</td>
+                    <td>{{ form.votos.errors }}</td>
+                </tr>
+                <tr><td><input type="submit" value="Guardar pelicula" /></td></tr>
+            </table>
+        </form>
+{% endblock %}
