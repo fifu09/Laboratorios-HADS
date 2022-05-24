@@ -44,10 +44,17 @@ namespace Lab3
 
         protected void Button1_Click(object sender, EventArgs e)
         {
-            string xml = Server.MapPath("APP_DATA/" + DropDownList1.SelectedValue + ".xml");
-            tareas.Columns[0].ColumnMapping = MappingType.Attribute;
-            tareas.WriteXml(xml);
-            Label3.Text = "guardado en el servidor";
+            string xml = Server.MapPath("../APP_DATA/" + DropDownList1.SelectedValue + ".xml");
+            try
+            {
+                tareas.Columns[0].ColumnMapping = MappingType.Attribute;
+                tareas.WriteXml(xml);
+                Label3.Text = "guardado en el servidor";
+            }
+            catch
+            {
+                Label3.Text = "Se ha producido algun error";
+            }
         }
 
         protected void Button3_Click(object sender, EventArgs e)
