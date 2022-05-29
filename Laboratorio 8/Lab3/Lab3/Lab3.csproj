@@ -95,7 +95,7 @@
     <Content Include="nuevaPassword.aspx" />
     <Content Include="Profesor\Coordinador.aspx" />
     <Content Include="Registro.aspx" />
-    <Content Include="ServicioMediaDeHoras.asmx" />
+    <Content Include="ServicioMedia.asmx" />
     <Content Include="SessionIniciada.aspx" />
     <Content Include="Error.aspx" />
     <Content Include="Alumno\VerTareasEstudiante.aspx" />
@@ -203,8 +203,8 @@
     <Compile Include="Registro.aspx.designer.cs">
       <DependentUpon>Registro.aspx</DependentUpon>
     </Compile>
-    <Compile Include="ServicioMediaDeHoras.asmx.cs">
-      <DependentUpon>ServicioMediaDeHoras.asmx</DependentUpon>
+    <Compile Include="ServicioMedia.asmx.cs">
+      <DependentUpon>ServicioMedia.asmx</DependentUpon>
       <SubType>Component</SubType>
     </Compile>
     <Compile Include="SessionIniciada.aspx.cs">

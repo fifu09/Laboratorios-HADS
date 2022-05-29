@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="dbdConnectionString-Web.config Connection String" description="dbdConnectionString Cadena de conexión que usa la aplicación en web.config para obtener acceso a la base de datos." defaultValue="Data Source=dbd2022-abderraoufkhedidji.database.windows.net;Initial Catalog=dbd;User ID=fifu09;Password=Besmeleh1" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\fifu1\\OneDrive\\Escritorio\\INFORMATICA\\Tercero\\HADS\\Laboratorio\ 8\\Lab3\\Lab3\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='dbdConnectionString']/@connectionString" />
+  </parameter>
+</parameters>

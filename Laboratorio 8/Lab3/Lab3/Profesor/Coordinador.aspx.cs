@@ -23,7 +23,7 @@ namespace Lab3.Profesor
         }
         protected void Button1_Click(object sender, EventArgs e)
         {
-            ReferenciaMediaDeHoras.ServicioMediaDeHorasSoapClient service = new ReferenciaMediaDeHoras.ServicioMediaDeHorasSoapClient();
+            ServicioMedia service = new ServicioMedia();
             int horas = service.getHorasMedias(DropDownList1.SelectedValue);
             Label3.Text = horas.ToString();
         }
