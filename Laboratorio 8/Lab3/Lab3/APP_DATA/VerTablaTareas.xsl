@@ -3,7 +3,7 @@
 <xsl:stylesheet version="1.0"
     xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 
-  <xsl:template match="tareas">
+  <xsl:template match="NewDataSet">
     <html>
       <H3> Lista de tareas de la asignatura selecionada</H3>
       <body>
@@ -14,7 +14,7 @@
             <td>HORAS EST.</td>
 			<td>TIPO</td>
           </tr>
-          <xsl:for-each select="./tarea">
+          <xsl:for-each select="./TareaGenerica">
             <tr>
               <td>
                 <xsl:value-of select="./@codigo"/>
@@ -23,9 +23,9 @@
                 <xsl:value-of select="./descripcion"/>
               </td>
               <td>
-                <xsl:value-of select="./hestimadas"/>
+                <xsl:value-of select="./hEstimadas"/>
               </td><td>
-                <xsl:value-of select="./tipotarea"/>
+                <xsl:value-of select="./tipoTarea"/>
               </td>
             </tr>
           </xsl:for-each>

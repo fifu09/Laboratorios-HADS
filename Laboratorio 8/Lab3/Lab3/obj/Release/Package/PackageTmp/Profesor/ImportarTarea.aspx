@@ -36,8 +36,8 @@
         <asp:Button ID="Button1" runat="server" Text="Importar Tareas" OnClick="Button1_Click" />
         <asp:Label ID="Label5" runat="server" Text=""></asp:Label>
         <br/>
-        <asp:Xml ID="Xml1" runat="server"></asp:Xml>
-        <asp:Label ID="Label6" runat="server" Text=""></asp:Label>
+        <asp:Xml ID="Xml1" runat="server" TransformSource="~/APP_DATA/VerTablaTareas.xsl"></asp:Xml>
+        <asp:Label ID="Label6" runat="server"></asp:Label>
         <br/>
         <asp:Button ID="Button3" runat="server" Text="Volver" OnClick="Button3_Click"/>
     </form>

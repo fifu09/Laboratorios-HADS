@@ -24,6 +24,7 @@ namespace Lab3
 
         protected void Button1_Click(object sender, EventArgs e)
         {
+            Funciones.Class1.conectar();
             if (Funciones.Class1.existeTarea(TextBox1.Text) == true)
             {
                 Label8.Text = "Ya existe una tarea con ese codigo";
@@ -39,6 +40,7 @@ namespace Lab3
                     Label8.Text = "Error al incluir la tarea";
                 }
             }
+            Funciones.Class1.desconectar();
         }
 
         protected void Button2_Click(object sender, EventArgs e)

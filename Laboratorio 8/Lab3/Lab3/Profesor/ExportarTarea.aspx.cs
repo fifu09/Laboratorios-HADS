@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Data;
+using System.IO;
 using System.Linq;
 using System.Web;
 using System.Web.UI;
@@ -41,7 +42,6 @@ namespace Lab3
             Session.Abandon();
             Response.Redirect("~/Login.aspx");
         }
-
         protected void Button1_Click(object sender, EventArgs e)
         {
             string xml = Server.MapPath("../APP_DATA/" + DropDownList1.SelectedValue + ".xml");
@@ -51,9 +51,9 @@ namespace Lab3
                 tareas.WriteXml(xml);
                 Label3.Text = "guardado en el servidor";
             }
-            catch
+            catch (FileNotFoundException a)
             {
-                Label3.Text = "Se ha producido algun error";
+                Label3.Text = a.ToString();
             }
         }
 

@@ -46,9 +46,8 @@ namespace Funciones
             Boolean condition;
             int confirmado = 0;
             int codpass = 0;
-            SqlCommand comand = new SqlCommand();
             String sql = $"insert into dbo.Usuario values ('{email}','{nombre}','{apellidos}', {numConfir}, {confirmado}, '{tipo}', '{pass}', {codpass})"; ;
-            comand = new SqlCommand(sql, conexion);
+            SqlCommand comand = new SqlCommand(sql, conexion);
             //Condicion si el email esta o no en la DB
             if (existeUsuario(email))
             {
@@ -67,7 +66,7 @@ namespace Funciones
                 }
                 catch (Exception e)
                 {
-                    condition = false; ;
+                    condition = false; 
                     System.Diagnostics.Debug.WriteLine("{0} Exception caught.", e);
                 }
             }
@@ -76,9 +75,8 @@ namespace Funciones
         }
         public static Boolean existeUsuario(string email)
         {
-            SqlCommand comand = new SqlCommand();
             string sql = $"select count(*) from dbo.Usuario where email = '{email}'";
-            comand = new SqlCommand(sql, conexion);
+            SqlCommand comand = new SqlCommand(sql, conexion);
             int a = Convert.ToInt32(comand.ExecuteScalar());
             if (a == 1)
             {
@@ -91,9 +89,8 @@ namespace Funciones
         }
         public static Boolean iniciarSesion(string email, string password)
         {
-            SqlCommand comand = new SqlCommand();
             string sql = $"select count(*) from dbo.Usuario where email = '{email}' and pass = '{password}' and confirmado= 1";
-            comand = new SqlCommand(sql, conexion);
+            SqlCommand comand = new SqlCommand(sql, conexion);
             int a = Convert.ToInt32(comand.ExecuteScalar());
             if (a == 1)
             {
@@ -132,9 +129,8 @@ namespace Funciones
         }
         public static Boolean verificacion(string email, int numConf)
         {
-            SqlCommand comand = new SqlCommand();
             string sql = $"select count(*) from dbo.Usuario where email = '{email}' and numconfir='{numConf}'";
-            comand = new SqlCommand(sql, conexion);
+            SqlCommand comand = new SqlCommand(sql, conexion);
             if ((Convert.ToInt32(comand.ExecuteScalar()) == 1))
             {
                 sql = $"update dbo.Usuario set confirmado = 1 where email = '{email}'";
@@ -149,9 +145,8 @@ namespace Funciones
         }
         public static Boolean insertarCodPass(String email, int codpass)
         {
-            SqlCommand comand = new SqlCommand();
             string sql = $"update dbo.Usuario set codpass = {codpass} where email = '{email}'";
-            comand = new SqlCommand(sql, conexion);
+            SqlCommand comand = new SqlCommand(sql, conexion);
             try
             {
                 comand.ExecuteNonQuery();
@@ -164,9 +159,8 @@ namespace Funciones
         }
         public static Boolean existeCodPass(String email, int codpass)
         {
-            SqlCommand comand = new SqlCommand();
             string sql = $"select count(*) from dbo.Usuario where email = '{email}' and codpass= '{codpass}'";
-            comand = new SqlCommand(sql, conexion);
+            SqlCommand comand = new SqlCommand(sql, conexion);
             int a = Convert.ToInt32(comand.ExecuteScalar());
             if (a == 1)
             {
@@ -194,9 +188,8 @@ namespace Funciones
         }
         public static String getRol(String email)
         {
-            SqlCommand comand = new SqlCommand();
             string sql = $"select tipo from dbo.Usuario where email = '{email}'";
-            comand = new SqlCommand(sql, conexion);
+            SqlCommand comand = new SqlCommand(sql, conexion);
             SqlDataReader rol = comand.ExecuteReader();
             if (rol.Read())
             {
@@ -337,7 +330,6 @@ namespace Funciones
             pass = password.ToString();
             return pass;
         }
-
         public static int mediaDeHoras(string asignatura)
         {
             string st = $"select avg([dbo].[EstudianteTarea].hReales) from [dbo].[EstudianteTarea] inner join [dbo].[TareaGenerica] on [dbo].[EstudianteTarea].codTarea = [dbo].[TareaGenerica].Codigo where [dbo].[TareaGenerica].CodAsig='{asignatura}'";

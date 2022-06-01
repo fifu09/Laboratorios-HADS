@@ -52,7 +52,6 @@ namespace Registro_de_Usuario
                 Application.Contents[rol] = np;
                 Application.UnLock();
                 Funciones.Class1.desconectar();
-                Funciones.Class1.desconectar();
                 Response.Redirect($"{rol}/{rol}.aspx");
             }
             else

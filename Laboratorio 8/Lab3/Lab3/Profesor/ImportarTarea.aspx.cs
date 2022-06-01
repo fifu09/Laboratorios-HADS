@@ -60,6 +60,8 @@ namespace Lab3
                 Label6.Text = "";
                 Xml1.DocumentSource = Server.MapPath("../APP_DATA/" + DropDownList1.SelectedValue + ".xml");
                 Xml1.TransformSource = Server.MapPath("../APP_DATA/VerTablaTareas.xsl");
+                
+                
             }
             else
             {
